@@ -8,13 +8,13 @@ date: 2019-10-30
 
 #### Edmonds City Hall, Edmonds, WA  
 
-We had our kick-off meeting to discuss use of drone in local public agencies in Western Washington. We met at City of Edmonds on Sept 20, 2019. This summit was made possible with collaboration between Greg Lang from Pierce County, Peter Keum from King County and David Rohde from City of Edmonds. 
+We had our kick-off meeting to discuss the use of drones in local public agencies in Western Washington. We met in the City of Edmonds on Sept 20, 2019. This summit was made possible through the collaborative efforts of Greg Lang from Pierce County, Peter Keum from King County and David Rohde from City of Edmonds. 
 
-Representing agencies from Washington State to counties to cities, and tribe organizations were present. We wanted to use this forum to communicate and share information relating to small drone use.
+Public agencies from Washington state counties, cities, and tribe organizations were present. We wanted to use this forum to communicate and share information relating to small drone use.
 
 #### Meeting Summary
 
-Goal of this kick-off meeting was to share, to learn, and to practice using small drones for local WA Puget Sound public agencies. Here is general outline of the meeting.[Presentation Slide Link.](https://slides.com/keump/deck-45) 
+Goal of this kick-off meeting was to share, to learn, and to practice using small drones for local WA Puget Sound public agencies. Here is general outline of the meeting. [Presentation Slide Link.](https://slides.com/keump/deck-45) 
 
 #### Part I: Learn
 
@@ -23,7 +23,7 @@ Discussed three possible levels of prosumer drone packages.
 - Mid-Level: DJI Mavic Pro + Free flight planning app + spreadsheet/notebook + Flight control app + Data Processing Software = Orthomosaic imagery data and/or 3D models. 
 - Enterprise: DJI Matrice/Inspire + Planning app/Desktop Tracking software + Advance control app + Data Processing software = Orthomosaic photos and 3D models in various formats. 
 
-Discussed Best Practices for Data storages and acess: Using Esri Image Server or Enterprise DroneDeploy program for data management.
+Discussed Best Practices for Data storages and access: Using Esri Image Server or Enterprise DroneDeploy program for data management.
 
 
 #### Part II: Share
@@ -52,4 +52,3 @@ Greg Lang from Pierce County shared following information.
 #### Questions and Comments
 
 Please Email comments and suggestions to Peter Keum: keum.peter@gmail.com
-
