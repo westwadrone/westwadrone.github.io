@@ -44,7 +44,8 @@ Greg Lang from Pierce County shared following information.
 
 #### Next Meeting:
 - **January 24, 2020.** 
-- Location : Pierce County Adminstrative Office, Tacoma, WA
+- Location : Pierce County Administrative Office 
+- 2401 S 35th St #200 Tacoma, WA
 - Topic Agenda: TBD
 
 ---
