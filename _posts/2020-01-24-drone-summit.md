@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2nd Meeting Summary Note
+title: Meeting Minutes
 date: 2020-01-24
 ---
 
